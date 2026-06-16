@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8d7534e-933f-47cc-9e1e-07976d6fba5a" name="Changes" comment="Em nộp bài hoàn thiện của nhóm số 5 CT1B" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[LocalEmulator::path=C:\Users\Hoang Hai ^^\.android\avd\Small_Phone.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Nhom-5-quan-li-chi-tieu" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hane4725&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/UHL-FIT/ltttbdd-btl-20261-ct1b_group5.git&quot;,
+    &quot;accountId&quot;: &quot;349bbda0-b93a-42f3-93f9-cd7f5171b370&quot;
+  }
+}</component>
+  <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="C:\Users\Hoang Hai ^^\.gradle\wrapper\dists\gradle-9.4.1-bin\arn2x92ynaizyzdaamcbpbhtj\gradle-9.4.1" javaHome="C:\Program Files\Android\Android Studio\jbr" gradleVersion="9.4.1" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3DrH0fxr5wxwOL70Ys9HllBJr8Z" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Android App.app.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "PROJECT_TRUSTED_KEY": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Nhom-5-quan-li-chi-tieu.app" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="RESTORE_FRESH_INSTALL_ONLY" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8d7534e-933f-47cc-9e1e-07976d6fba5a" name="Changes" comment="" />
+      <created>1779033047765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779033047765</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Sửa lại lại version cho phù hợp với panda 3 version 9.1.1">
+      <option name="closed" value="true" />
+      <created>1779126346047</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779126346047</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Thêm điều hướng giữa MainScreen và ThongKeScreen, thêm log vòng đời Activity">
+      <option name="closed" value="true" />
+      <created>1779213657215</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779213657215</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Thêm GioiThieuScreen + hàm chức năng xóa (đã tích hợp nó vào giao diện MainScreen.kt)">
+      <option name="closed" value="true" />
+      <created>1779300770285</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1779300770285</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Sửa lại giao diện tích hợp xóa ở trong Trang Chủ và thiếp lập thêm sửa xóa phần Danh thiếp, sửa lại giao diện">
+      <option name="closed" value="true" />
+      <created>1779640447466</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1779640447467</updated>
+    </task>
+    <task id="LOCAL-00005" summary="thêm chức năng sửa giao dich ở BudgetViewModel.kt và sửa lại lỗi chữ quá dài sẽ bị xuống dòng tạm thời(...) và thêm 1 icon sửa đối với các lịch sử giao dịch">
+      <option name="closed" value="true" />
+      <created>1779730522886</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1779730522887</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Chỉnh lại toàn bộ thu mực dự án cho hợp lí thêm phần người dùng vào trong Cài đặt và hoàn thiện chế độ sáng tối. Thêm thư mục reponsitory và thực hiện đông bộ bộ màu">
+      <option name="closed" value="true" />
+      <created>1779908613127</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1779908613127</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Thêm trạng thái Loading/Error (đã có đối với 3 màn hình DanhMucScreen, ThongKeScreen, MainScreen) , và sửa lại giao diện sao cho hợp lí">
+      <option name="closed" value="true" />
+      <created>1780668161152</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1780668161152</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Thêm API tin tức tài chính và làm thêm trang giao diện tiun tức">
+      <option name="closed" value="true" />
+      <created>1780739575604</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1780739575604</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Thêm API tin tức tài chính và làm thêm trang giao diện tiun tức">
+      <option name="closed" value="true" />
+      <created>1780739590887</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1780739590887</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Hoàn thiện bài">
+      <option name="closed" value="true" />
+      <created>1781443885534</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1781443885535</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Hoàn thiện bài">
+      <option name="closed" value="true" />
+      <created>1781529503257</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1781529503257</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Em nộp bài hoàn thiện của nhóm số 5 CT1B">
+      <option name="closed" value="true" />
+      <created>1781616312091</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1781616312092</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sửa lại lại version cho phù hợp với panda 3 version 9.1.1" />
+    <MESSAGE value="Thêm điều hướng giữa MainScreen và ThongKeScreen, thêm log vòng đời Activity" />
+    <MESSAGE value="Thêm GioiThieuScreen + hàm chức năng xóa (đã tích hợp nó vào giao diện MainScreen.kt)" />
+    <MESSAGE value="Sửa lại giao diện tích hợp xóa ở trong Trang Chủ và thiếp lập thêm sửa xóa phần Danh thiếp, sửa lại giao diện" />
+    <MESSAGE value="thêm chức năng sửa giao dich ở BudgetViewModel.kt và sửa lại lỗi chữ quá dài sẽ bị xuống dòng tạm thời(...) và thêm 1 icon sửa đối với các lịch sử giao dịch" />
+    <MESSAGE value="Chỉnh lại toàn bộ thu mực dự án cho hợp lí thêm phần người dùng vào trong Cài đặt và hoàn thiện chế độ sáng tối. Thêm thư mục reponsitory và thực hiện đông bộ bộ màu" />
+    <MESSAGE value="Thêm trạng thái Loading/Error (đã có đối với 3 màn hình DanhMucScreen, ThongKeScreen, MainScreen) , và sửa lại giao diện sao cho hợp lí" />
+    <MESSAGE value="Thêm API tin tức tài chính và làm thêm trang giao diện tiun tức" />
+    <MESSAGE value="Hoàn thiện bài" />
+    <MESSAGE value="Em nộp bài hoàn thiện của nhóm số 5 CT1B" />
+    <option name="LAST_COMMIT_MESSAGE" value="Em nộp bài hoàn thiện của nhóm số 5 CT1B" />
+  </component>
+  <component name="play_dynamic_filters_status">
+    <option name="appIdToCheckInfo">
+      <map>
+        <entry key="com.example.nhom_5_quan_li_chi_tieu">
+          <value>
+            <CheckInfo lastCheckTimestamp="1781616270946" />
+          </value>
+        </entry>
+        <entry key="com.example.nhom_5_quan_li_chi_tieu.test">
+          <value>
+            <CheckInfo lastCheckTimestamp="1781616270955" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
